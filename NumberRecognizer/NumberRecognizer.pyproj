@@ -27,6 +27,7 @@
     <Compile Include="Network.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Network2.py" />
     <Compile Include="Trainner.py" />
     <Compile Include="showpicture.py">
       <SubType>Code</SubType>
